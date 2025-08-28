@@ -29,7 +29,7 @@ The tarball (`.tar.xz`) includes:
 * Required libraries and `.so` files
 * Helper scripts for startup and configuration
 
-[Download the source code](https://github.com/UncannY-Netherlands/VSCode-Enterprise-Portable/releases/download/1.103.2-1755709794/vscode_1.103.2-1755709794_portable.tar.xz)
+[Download VSCode portable for Enterprises](https://github.com/UncannY-Netherlands/VSCode-Enterprise-Portable/releases/download/1.103.2-1755709794/vscode_1.103.2-1755709794_portable.tar.xz)
 
 ---
 
