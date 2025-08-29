@@ -1,6 +1,6 @@
-# VSCode Enterprise Portable
+# VSCode Linux Portable
 
-**VSCode Enterprise Portable** is a portable build of [Microsoft Visual Studio Code](https://code.visualstudio.com/).
+**VSCode Linux Portable** is a portable build of [Microsoft Visual Studio Code](https://code.visualstudio.com/).
 It is designed for enterprise environments and is especially useful on systems such as **RHEL**, **SUSE**, and **Ubuntu Pro**, where system stability and minimal modifications are critical.
 
 With this portable build, **no installation is required**, keeping the system clean. Updates and package management are not necessary, as everything is self-contained in a single directory.
